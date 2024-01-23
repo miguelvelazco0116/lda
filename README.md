@@ -20,6 +20,11 @@
 
 ## Context
 
-```python
 
-```
+*Latent Dirichlet Allocation (LDA)* is a popular algorithm used for topic modeling, which enables us to uncover hidden thematic structures within large collections of documents. It's particularly useful in fields like natural language processing and text mining for organizing, understanding, and summarizing large datasets of textual information
+
+
+## Introduction
+
+
+*Latent Dirichlet Allocation (LDA)* is a generative statistical model that explains a set of observations through unobserved groups. In the context of text analysis, these observations are words collected into documents, and it posits that each document is a mixture of a small number of topics and that each word's presence is attributable to one of the document's topics.

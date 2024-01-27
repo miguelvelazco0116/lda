@@ -6,13 +6,13 @@
 
 - [Context](#context)
 - [Introduction](#introduction)
-   + [data exploring](lda_oil.ipynb)
+   + [data exploring](lda.ipynb)
 - [Data segmentation](#data-segmentation)
-   + [building the model](lda_oil.ipynb)
+   + [building the model](lda.ipynb)
 - [Features](#features)
-   + [building_features](lda_oil.ipynb)
+   + [building_features](lda.ipynb)
 - [Preprocess](#budget-optimization)
-   + [preprocess](lda_oil.ipynb)
+   + [preprocess](lda.ipynb)
 - [Findings](#findings)
 
 

@@ -11,7 +11,7 @@
    + [building the model](lda.ipynb)
 - [Features](#features)
    + [building_features](lda.ipynb)
-- [Preprocess](#budget-optimization)
+- [Preprocess](#preprocess)
    + [preprocess](lda.ipynb)
 - [Findings](#findings)
 

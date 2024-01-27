@@ -6,13 +6,13 @@
 
 - [Context](#context)
 - [Introduction](#introduction)
-   + [Data exploring](data_explorer.ipynb)
+   + [data exploring](lda_oil.ipynb)
 - [Data segmentation](#data-segmentation)
-   + [building the model](loyalty_drivers.ipynb)
+   + [building the model](lda_oil.ipynb)
 - [Features](#features)
-   + [building SHAP values](loyalty_drivers.ipynb)
+   + [building_features](lda_oil.ipynb)
 - [Preprocess](#budget-optimization)
-   + [building the optimization model](optimizing_loyalty.ipynb)
+   + [preprocess](lda_oil.ipynb)
 - [Findings](#findings)
 
 

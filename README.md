@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
    + [data exploring](lda.ipynb)
 - [Data segmentation](#data-segmentation)
-   + [building the model](lda.ipynb)
+   + [segmentation](lda.ipynb)
 - [Features](#features)
    + [building_features](lda.ipynb)
 - [Preprocess](#preprocess)
